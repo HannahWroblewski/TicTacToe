@@ -1,0 +1,16 @@
+.board {
+    box-sizing: border-box;
+    height: 360px;
+    width: 360px;
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+
+  .cell{
+    box-sizing: border-box;
+    flex-basis: 120px;
+  }
+
+  body {
+  }
